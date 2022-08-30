@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JVMatos
-- 👀 I’m interested in learn about programing languages to be a great FullStack Devloper.
-- 🌱 I’m currently learning about Front-End dev, like HTML, CSS, JQuery, JavaScript etc.
+- 👀 I’m interested in learn about software test to be a great Software Tester and QA Analyst.
+- 🌱 I’m currently learning about Manual Testing and Test Automatization with RobotFramework.
 - 💞️ I’m looking to collaborate on everything I can, as I gain experience.
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/jv-matos/ - E-mail: joao.matos@fatecitapetininga.edu.br
 <!---
