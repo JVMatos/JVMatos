@@ -18,7 +18,7 @@
 
 ### Main skills:
 
-![Robot Framework](https://img.shields.io/badge/-robot_framework-0D1117?style=for-the-badge&logo=robot_framework3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Robot Framework](https://img.shields.io/badge/-robot_framework-0D1117?style=for-the-badge&logo=robot-framework&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Tools:
