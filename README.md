@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/jv-matos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/jv-matos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"</a>
 </div>
 
 
