@@ -2,18 +2,25 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Vitor+Matos;I'm+24+years+old;I+from+Capão+Bonito,+SP+-+Brasil;I+work+as+a+QA+at+EvolutionSoft;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JVMatos&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVMatos&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JVMatos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=JVMatos&theme=react&border=61dafb&hide_border=true" alt="JVMatos" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=JVMatos&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVMatos&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JVMatos&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-<div align="center">  
-<a href="https://www.linkedin.com/in/jv-matos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"</a>
-</div>
 
 
 ### Main skills:
