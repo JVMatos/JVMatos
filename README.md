@@ -36,9 +36,4 @@ I am responsible for identifying, reporting, and tracking bugs, as well as devel
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-<h3>💬 Connect With Me!</h3>
-<a href="https://linktr.ee/jvmatos" target="blank">Linktree</a>
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
