@@ -13,7 +13,7 @@ Hi! I'm **João Vitor Matos**, a Quality Assurance Engineer passionate about tra
 
 <h3>💻 Currently Working</h3>
 
-I currently work as a **Junior QA Engineer** at **Jovens Gênios**, an innovative company in the education sector. My routine is 100% Home Office, which allows me to focus even more on quality and test automation.
+I currently work as a **QA Engineer** at **Jovens Gênios**, an innovative company in the education sector. My routine is 100% Home Office, which allows me to focus even more on quality and test automation.
 
 I am responsible for identifying, reporting, and tracking bugs, as well as developing and maintaining automated test suites to ensure the robustness and reliability of our products.
 
